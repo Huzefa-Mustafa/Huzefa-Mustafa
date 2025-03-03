@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 ## 🔭 Current Work
 - 🛠️ **Research Assistant** at [Hochschule Rhein-Waal](https://transform-hsrw.org/was-ist-transregint/das-team/) (Ambient Intelligent Systems Lab)  
   - Focus: **TransRegint** project, contributing to cutting-edge AI and systems research.
-- 🚀 **Software Developer** at **SMS group**  
+- 🚀 **Software Developer** at **SMS Group GmbH**  
   - Specializing in **software optimization** and process automation for the steel industry.
 
 ## 🌱 What I'm Learning
@@ -31,14 +31,14 @@ I'm passionate about **open-source** development! and I regularly participate in
 ## 📫 How to Reach Me
 - LinkedIn: [Huzefa Mustafa](https://www.linkedin.com/in/huzefamustafa)
 - Email: huzefahdk@gmail.com  
-- Portfolio: [Your Portfolio](#)
+- Portfolio: [My Portfolio](#)
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzefamustafa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefamustafa&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzefa-mustafa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefa-mustafa&layout=compact&theme=radical)
 
 ---
 
