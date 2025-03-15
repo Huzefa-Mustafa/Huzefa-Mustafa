@@ -1,7 +1,7 @@
-# Hi, I'm Huzefa Mustafa 👋  
-🚀 **Software Developer | Research Assistant | Open-Source Enthusiast**  
+# Hi, I'm Huzefa 👋  
+🚀 **Full Stack Software Developer | Research Assistant | Data Analyst**  
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in a wide range of technologies, from **Python** and **REST APIs** to **React**, **Docker**, and **Kubernetes**. Currently, I'm working on exciting projects in **data science**, **AI**, and **software optimization** at **SMS group** and **Hochschule Rhein-Waal**.
+Welcome to my GitHub profile! I'm a passionate developer with experience in a wide range of technologies, from **Python** and **REST APIs** to **React**, **Docker**, and **Kubernetes**. For more than 5 years, I worked on exciting projects in **data science**, **AI**, and **software optimization** at **SMS group** and currently I am working as research assitant in **Hochschule Rhein-Waal** contributing to state funded projects.
 
 ## 🔭 Current Work
 - 🛠️ **Research Assistant** at [Hochschule Rhein-Waal](https://transform-hsrw.org/was-ist-transregint/das-team/) (Ambient Intelligent Systems Lab)  
@@ -35,14 +35,7 @@ I'm passionate about **open-source** development! and I regularly participate in
 
 ---
 
----### 📈 GitHub Stats
-
----![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzefa-mustafa&show_icons=true&theme=radical)
----![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefa-mustafa&layout=compact&theme=radical)
-
----
-
 ### ⚡ Fun Fact
-When I'm not coding, I enjoy **sci-fi movies**, **hackathons**, ****Tekken Enthusiast**** and tinkering with new **tech innovations**.
+When I'm not coding, I enjoy **sci-fi**, **astronomy**, **hackathons**, **Tekken Enthusiast**, and tinkering with new **tech innovations**.
 
 Feel free to explore my repositories and reach out for collaboration or discussions!
