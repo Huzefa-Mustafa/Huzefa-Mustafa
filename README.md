@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a wi
 
 ## 💬 Ask Me About
 - **REST APIs**, **React**, **Python**, **C++**, **Docker**, **Kubernetes**, **Data Science**
-- My experience working on **visualization apps** and **data analysis tools**.
+- My experience is in development of **data visualization apps** and **data analysis tools**.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, C++, JavaScript (React, Node.js)
