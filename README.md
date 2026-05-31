@@ -4,10 +4,10 @@
 Welcome to my GitHub profile! I'm a passionate developer with experience in a wide range of technologies, from **Python** and **REST APIs** to **React**, **Docker**, and **Kubernetes**. For more than 5 years, I worked on exciting projects in **data science**, **AI**, and **software optimization** at **SMS group** and currently I am working as research assitant in **Hochschule Rhein-Waal** contributing to state funded projects.
 
 ## 🔭 Current Work
-- 🛠️ **Research Assistant** at [Hochschule Rhein-Waal](https://transform-hsrw.org/was-ist-transregint/das-team/) (Ambient Intelligent Systems Lab)  
-  - Focus: **TransRegint** project, contributing to cutting-edge AI and systems research.
-- 🚀 **Software Developer** at **SMS Group GmbH**  
-  - Specializing in **software optimization** and process automation for the steel industry.
+- 🛠️ **Research Assistant** @ Ambient Intelligent Systems Lab at Hochschule Rhein-Waal university of applied science.  
+  - Program: [TransRegint](https://transform-hsrw.org/was-ist-transregint/das-team/) Platform: [LESELAB](https://leselab.de/), contributing to the development of an educational purpose application known as **STREEN STUDIO**. Focusing on enhancing the reading ability of primary school students with interactive technology. 
+- 🚀 **Full Stack Software Developer** @ **a11y design GmbH**(https://www.a11y-design.de/)  
+  - Specializing in **software optimization** and development of projects related to geospatial data, map-routing, and accessibility.
 
 ## 🌱 What I'm Learning
 - 🔍 Exploring **Kubernetes** and **Docker** for deploying scalable applications.
@@ -36,6 +36,6 @@ I'm passionate about **open-source** development! and I regularly participate in
 ---
 
 ### ⚡ Fun Fact
-When I'm not coding, I enjoy **sci-fi**, **astronomy**, **hackathons**, **Tekken Enthusiast**, and tinkering with new **tech innovations**.
+When I'm not coding, I enjoy **sci-fi**, **astronomy**, **Tekken Enthusiast**, and tinkering with new **tech innovations**.
 
 Feel free to explore my repositories and reach out for collaboration or discussions!
