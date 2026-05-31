@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in a wi
 ## 🔭 Current Work
 - 🛠️ **Research Assistant** @ Ambient Intelligent Systems Lab at Hochschule Rhein-Waal university of applied science.  
   - Program: [TransRegint](https://transform-hsrw.org/was-ist-transregint/das-team/) Platform: [LESELAB](https://leselab.de/), contributing to the development of an educational purpose application known as **STREEN STUDIO**. Focusing on enhancing the reading ability of primary school students with interactive technology. 
-- 🚀 **Full Stack Software Developer** @ **a11y design GmbH**(https://www.a11y-design.de/)  
+- 🚀 **Full Stack Software Developer** @ **a11y design GmbH** [link](https://www.a11y-design.de/)  
   - Specializing in **software optimization** and development of projects related to geospatial data, map-routing, and accessibility.
 
 ## 🌱 What I'm Learning
